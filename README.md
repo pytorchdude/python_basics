@@ -1,1 +1,1 @@
-# Python Data Structures and Algoreithms (DSA)
+# Python Data Structures and Algorithms (DSA)
