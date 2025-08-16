@@ -1,7 +1,3 @@
-Here’s a polished **README.md** draft for your deep learning repo. It frames your work as a professional showcase without ever using the word *portfolio*:
-
----
-
 # Deep Learning with TensorFlow
 
 A collection of hands-on projects and explorations in **deep learning**, implemented with **TensorFlow** and presented in interactive **Jupyter notebooks**.
